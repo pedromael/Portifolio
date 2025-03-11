@@ -27,15 +27,10 @@ Este é o repositório do meu portfólio pessoal, onde apresento meus projetos, 
    ```
 3. Abra o arquivo `index.html` no seu navegador.
 
-## 📷 Imagens do Projeto
-
-Adicione capturas de tela do portfólio aqui.
-
 ## 📩 Contato
 
-- **Email:** pedro@example.com
-- **LinkedIn:** [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- **GitHub:** [Seu GitHub](https://github.com/seu-usuario)
+- **Email:** pedromael14@gmail.com
+- **GitHub:** [Seu GitHub](https://github.com/pedromael)
 
 ---
 Desenvolvido por **Pedro Manuel** 🚀
