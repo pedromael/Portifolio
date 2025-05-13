@@ -1,0 +1,28 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "Este é o repositório do meu portfólio pessoal, onde apresento meus projetos, experiência e informações de contato.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedromael/Portifolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pedromael/Portifolio/issues"
+  },
+  "homepage": "https://github.com/pedromael/Portifolio#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
